@@ -4,4 +4,4 @@
 
 using namespace std;
 
-// fill in this file with the functino defintions for the Point class
+// fill in this file with the function defintions for the Point class
